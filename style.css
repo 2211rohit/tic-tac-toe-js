@@ -1,0 +1,86 @@
+body {
+    background: #c4d0d5;
+    text-align: center;
+    color: white;
+}
+button {
+    background: #42b0d2;
+    color: white;
+    width: 120px;
+    height: 120px;
+    font-size: 80px;
+    font-weight: bold;
+    vertical-align:top;
+    border: none;
+}
+.box1 button{
+    border-bottom: 4px solid white;
+}
+.box2 button{
+    border-bottom: 4px solid white;
+}
+#select2 {
+    border-right: 4px solid white;
+    border-left: 4px solid white;
+}
+#select5 {
+    border-right: 4px solid white;
+    border-left: 4px solid white;
+}
+#select8 {
+    border-right: 4px solid white;
+    border-left: 4px solid white;
+}
+.playerturn {
+    background: #4CAF50;
+    width: 360px;
+    margin: auto;
+    font-size: 25px;
+}
+.content {
+    display: flex;
+}
+.playerDetails1{
+    width: 25%;
+    font-size: 25px;
+}
+.gameDetails{
+    width: 50%;
+}
+.playerDetails2 {
+    width: 25%;
+    font-size: 25px;
+}
+h2 {
+    font-size: 80px;
+    font-weight: bold;
+}
+.playerName {
+    background: #2196F3;
+    margin: 50px;
+    padding: 20px;
+}
+
+.playerName input {
+    padding: 20px;
+	border: 1px solid #000000;
+}
+.winner {
+    color: #4CAF50;
+}
+input {
+    border-radius: 4px;
+    text-align: center;
+}
+#submitNames {
+    font-weight: bold;
+    background: white;
+}
+.playAgain{
+    background: #4CAF50;
+    font-size: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
